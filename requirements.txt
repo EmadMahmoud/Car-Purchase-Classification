@@ -16,3 +16,4 @@ flask-smorest
 python-dotenv # used to make a development env to restart the app evertime u change it.
 marshmallow
 gunicorn
+tensorflow>=2.0.0
